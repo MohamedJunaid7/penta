@@ -1,0 +1,8 @@
+.para {
+    text-align: center;
+    background-image: linear-gradient(rgb(207, 18, 18), rgb(200, 42, 84));
+    padding: 20px;
+    box-shadow: 2px 2px;
+    color : rgb(221, 8, 8) 
+
+}
